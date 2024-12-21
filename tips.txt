@@ -1,0 +1,5 @@
+Due to ethical constraints regarding the disclosure of EEG data
+ provided by a hospital for this study, the data will not be made 
+available temporarily. Should you encounter any issues with data 
+processing or code, please do not hesitate to reach out to me at 
+any time: 279834920@qq.com
